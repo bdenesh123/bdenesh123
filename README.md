@@ -45,8 +45,8 @@ I enjoy learning through hands-on projects, solving engineering challenges and c
 
 | Project | Description |
 |---|---|
-| [Taskflow](https://github.com/bdenesh123/Taskflow) | Full-stack task management application |
 | [Taskflow AI](https://github.com/bdenesh123/taskflow-ai) | Exploring AI-powered application development |
+| [Taskflow](https://github.com/bdenesh123/Taskflow) | Full-stack task management application |
 | [Airbnb Project](https://github.com/bdenesh123/airbnb-project) | Property discovery and accommodation booking platform |
 
 ---
