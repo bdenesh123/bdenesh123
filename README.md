@@ -2,9 +2,9 @@
 
 ### Software Engineer | Full-Stack Development | AI Engineering
 
-I'm a Software Engineer passionate about building web applications, designing backend systems, and exploring the intersection of software engineering and artificial intelligence.
+I'm a Software Engineer passionate about building web applications, designing backend systems and exploring the intersection of software engineering and artificial intelligence.
 
-I enjoy learning through hands-on projects, solving engineering challenges, and continuously improving my technical skills.
+I enjoy learning through hands-on projects, solving engineering challenges and continuously improving my technical skills.
 
 - 🔭 Currently building **Taskflow** and **Taskflow AI**
 - 🌱 Exploring **AI Engineering, LLM integration, and AWS**
