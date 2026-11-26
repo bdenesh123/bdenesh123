@@ -1,4 +1,4 @@
-# Hey, I'm Denesh 👋
+# Hi, I'm Denesh 👋
 
 ### Software Engineer | Full-Stack Development | AI Engineering
 
