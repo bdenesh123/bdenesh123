@@ -47,8 +47,6 @@ I enjoy learning through hands-on projects, solving engineering challenges, and 
 |---|---|
 | [Taskflow](https://github.com/bdenesh123/Taskflow) | Full-stack task management application |
 | [Taskflow AI](https://github.com/bdenesh123/taskflow-ai) | Exploring AI-powered application development |
-| [Athena Backend](https://github.com/bdenesh123/athena-backend) | Backend application development |
-| [Athena Frontend](https://github.com/bdenesh123/athena-frontend) | Frontend application development |
 | [Airbnb Project](https://github.com/bdenesh123/airbnb-project) | Property discovery and accommodation booking platform |
 
 ---
@@ -59,14 +57,6 @@ I enjoy learning through hands-on projects, solving engineering challenges, and 
 - AI-assisted software development
 - AWS Cloud Architecture
 - System Design and Backend Architecture
-
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdenesh123&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdenesh123&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
