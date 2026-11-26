@@ -7,8 +7,8 @@ I'm a Software Engineer passionate about building web applications, designing ba
 I enjoy learning through hands-on projects, solving engineering challenges and continuously improving my technical skills.
 
 - 🔭 Currently building **Taskflow** and **Taskflow AI**
-- 🌱 Exploring **AI Engineering, LLM integration, and AWS**
-- 💻 Interested in **Backend Engineering, System Design, and Scalable Applications**
+- 🌱 Exploring **AI Engineering, LLM integration and AWS**
+- 💻 Interested in **Backend Engineering, System Design and Scalable Applications**
 - 🇲🇾 Based in Malaysia
 
 ---
